@@ -1,0 +1,7 @@
+#!/bin/sh
+# This the script to 
+# print the message usinng 
+# Echo command
+# Author Name: Sanskruti Suryawanshi
+# Date : 25/01/2023
+echo "Hello World.."
